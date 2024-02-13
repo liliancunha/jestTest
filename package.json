@@ -1,0 +1,27 @@
+{
+  "name": "jesttest",
+  "version": "1.0.0",
+  "description": "Inserting the jest framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liliancunha/jestTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liliancunha/jestTest/issues"
+  },
+  "homepage": "https://github.com/liliancunha/jestTest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@google-cloud/firestore": "^7.3.0"
+  }
+}
